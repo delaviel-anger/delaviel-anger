@@ -1,6 +1,5 @@
 <style>
-.roundedCorner
-{
+.roundedCorner {
   width:80%;
   height:auto;
   border: solid 1px #e1e4e8;
@@ -12,9 +11,9 @@
   border-radius:12px;
 }
 
-.circle
-{
-  width:150px;height:150px;
+.circle {
+  width:150px;
+  height:150px;
   border: solid 1.5px #e1e4e8;
   background-color: #eed;
   box-shadow: 3px 3px  rgba(0,0,0,0.6);
