@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 .roundedCorner {
   width:80%;
   height:auto;
